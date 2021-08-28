@@ -8,7 +8,7 @@ The purpose of this analyis was to provide Louise an understanding of how previo
 
 ## Analysis of Challenges
 ### Analysis of Challenges Based on Launch Date
-![](C:\Users\jakew\Desktop\BootCamp Paperwork\M1 - Crowd Funding Analysis\Resources)
+![](Resources/Theater_Outcomes_vs_Launch.png)
 Analyzing the data of theaters based on their "Launch Date", we can see displayed in the above line chart that May is the most successful month.  Campaigns launched in September and October show to be the least successful. While there is an increase in failed campaigns for the month of May, it should be noted that a total of 166 individual campaigns were launched during this time period, exceeding any other month.
 
 ### Analysis of Challenges Based on Goals
