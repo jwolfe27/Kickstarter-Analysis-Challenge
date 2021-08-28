@@ -8,11 +8,13 @@ The purpose of this analyis was to provide Louise an understanding of how previo
 
 ## Analysis of Challenges
 ### Analysis of Challenges Based on Launch Date
-![](Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89044350/131220570-7b92f446-49b6-4a94-bd42-11d95c9188d5.PNG)
+
 Analyzing the data of theaters based on their "Launch Date", we can see displayed in the above line chart that May is the most successful month.  Campaigns launched in September and October show to be the least successful. While there is an increase in failed campaigns for the month of May, it should be noted that a total of 166 individual campaigns were launched during this time period, exceeding any other month.
 
 ### Analysis of Challenges Based on Goals
-![](Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89044350/131220586-a7ea84ac-30f5-4b57-9cb6-e355aff6799a.PNG)
+
 Analyzing the data of outcomes based on their "Goals", in the illustration above we can see that campaigns with a goal of $4,999 or less are the most successful, maintaining a success rate of over 70%. It should also be noted that campaigns with funding ranging from $35,000 to $40,000 also experienced a 67% success rate. Campaigns exceeding the goal amount of $45,000 experienced the lowest success rate
 
 ### Challenges and Difficulties Encountered
